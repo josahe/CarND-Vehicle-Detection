@@ -1,8 +1,10 @@
-# TITLE
-> An image processing pipeline to detect and track vehicles with a mounted, front-facing camera
+# Vehicle Detection and Tracking
+> An image processing pipeline to detect and track vehicles
 
 ## INTRODUCTION
 The goal of this project is to write a software pipeline that detects vehicles in an image and tracks them across frames of a video captured from a front-facing camera on a car
+
+A demonstration of the pipeline is show in this [video](project_video_output.mp4)
 
 This project was undertaken as part of the [Udacity Self-Driving Car NanoDegree](https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
 
