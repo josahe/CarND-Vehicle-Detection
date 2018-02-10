@@ -15,8 +15,8 @@ The dataset consists of two categories of 64x64 images. The images are labelled 
 
 |Label|Example|Number of examples|
 |:-:|:-:|:-:|
-|Vehicle|![](train_images/vehicles/GTI_MiddleClose/image0240.png)|8792|
-|Non-vehicle|![](train_images/non-vehicles/Extras/extra4322.png)|9006|
+|Vehicle|![](examples/image0240.png)|8792|
+|Non-vehicle|![](examples/extra4322.png)|9006|
 
 ### Feature vectors
 #### Histograms of colour
